@@ -1,9 +1,9 @@
 name: Build & Publish
 
 permissions:
-  contents: read
+  contents: write 
   pages: write     
-  
+
 on:
   push:
     branches:
