@@ -27,7 +27,7 @@ jobs:
     - name: Install NPM Dependencies
       run: npm install
     - name: Build Site
-      run: npm run prod
+      run: ./vendor/bin/jigsaw build production
     - name: Stage Files
       run: |
         ls
