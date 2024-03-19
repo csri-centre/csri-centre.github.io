@@ -31,7 +31,7 @@ jobs:
     - name: Stage Files
       run: |
         ls
-        git add build_production
+        git add -f build_production
     - name: Commit files
       run: |
         git config --local user.email "actions@github.com"
