@@ -116,7 +116,7 @@
 {{--                <ul class="lang-select">--}}
 {{--                    <li class="lang-select__item lang-select__item--active"><span>En</span></li>--}}
 {{--                </ul>--}}
-                <!-- lang select end--><a class="button button--squared" href="#"><span>Donate</span></a>
+                <!-- lang select end--><a class="button button--squared" href="/donate"><span>Donate</span></a>
                 <div class="dropdown-trigger d-block d-sm-none">
                     <div class="dropdown-trigger__item"></div>
                 </div>

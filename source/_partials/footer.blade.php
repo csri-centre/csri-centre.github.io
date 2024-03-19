@@ -56,7 +56,7 @@
             <div class="col-sm-6 col-lg-3">
                 <h4 class="footer__title">Donate</h4>
                 <p>Help us transform the experiences of those affected by suicide. Your support will go a long way.</p>
-                <a class="button footer__button button--filled" href="#">Donate</a>
+                <a class="button footer__button button--filled" href="/donate">Donate</a>
             </div>
         </div>
         <div class="row align-items-baseline">

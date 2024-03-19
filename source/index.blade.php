@@ -23,7 +23,7 @@
                         <h4 class="info-box__title">MAKE AN IMPACT</h4>
                         <p>Would you be interested in connecting with those affected by suicide or suicidal thoughts?</p>
                         <p>We'd love to hear from you. See how you can get involved below.</p>
-                        <a class="button button--primary button--filled" href="/">Get Involved</a>
+                        <a class="button button--primary button--filled" href="/get-involved">Get Involved</a>
                     </div>
                 </div>
             </div>
